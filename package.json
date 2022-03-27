@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/iden3/circom_runtime#readme",
   "dependencies": {
-    "ffjavascript": "0.2.48"
+    "ffjavascript": "git+https://github.com/veronicaz41/ffjavascript.git#vzheng/cabal"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
