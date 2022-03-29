@@ -33,11 +33,11 @@
     "url": "https://github.com/iden3/circom_runtime/issues"
   },
   "homepage": "https://github.com/iden3/circom_runtime#readme",
-  "dependencies": {
-    "ffjavascript": "git+https://github.com/veronicaz41/ffjavascript.git#vzheng/cabal"
-  },
   "devDependencies": {
     "eslint": "^6.8.0",
     "rollup": "^2.36.2"
+  },
+  "dependencies": {
+    "ffjavascript": "github:veronicaz41/ffjavascript#vzheng/cabal"
   }
 }
